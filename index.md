@@ -1,4 +1,3 @@
-theme:minima
 ---
 title: "Ashish K Jha"
 ---
